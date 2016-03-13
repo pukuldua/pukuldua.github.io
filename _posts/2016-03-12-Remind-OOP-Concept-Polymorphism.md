@@ -1,0 +1,3 @@
+A few days ago, I have a discussion with my team in Software Engineering division about refactoring our code of a module to be easier to maintain. Because we know that this module will be keep evolving in the future. That discusstion called some design pattern concept that may suit implemented by the module. A point that I noted from that discussion is about OOP (Object Oriented Programming) Concept. At that time, our discussion won't be find the match with the design pattern implementation if we don't keep OOP concept in mind. So, in this post I want to write a point of OOP concept, hopefully this post will be reminder for you if you forgot the concept and myself especially.
+
+The concept that I'd like to note in this post is **Polymorphism**.
